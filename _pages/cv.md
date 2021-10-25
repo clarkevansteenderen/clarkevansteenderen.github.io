@@ -40,16 +40,16 @@ I delivered a series of 1-1.5 hour/week tutorials to colleagues within the Centr
 * The biological control of water hyacinth under eutrophic conditions and the effects of different herbivorous feeding guilds on plant health and defenses
 * The determination of the efficacy of a unisexual vs a bisexual sterile insect release for the false codling moth (*Thaumatotibia leucotreta* Meyrick) (Lepidoptera: Tortricidae); a major citrus pest in South Africa. I also compared mating preference and successful mating ability between sterile and wild adults
 
-## Tutoring
+## Tutoring and work
 
-* Cell biology 101, Zoology 102, Zoology 201 and 202, Entomology 201, 202, 301 and 302, Honours R statistics courses; Department of Zoology and Entomology, Rhodes University (2017, 2018, 2019, 2020, 2021).
-Duties included assisting undergraduate students with their practical classes and fieldwork, and marking their scripts and assignments
-* Postgraduate student representative (MSc students) Centre for Biological Control, Department of Zoology and Entomology, Rhodes University (2018-2019)
-* Library assistant Student assistant at the Rhodes University main library loans desk (2018)
-* Committee member Environmental Representative (House Committee) for my residence (2016) at Rhodes University (Kimberley Hall)
-* Volunteering Week-long plant collecting excursion in the Stormberg Mountains for the Botany Department, Rhodes University (2014)
-* Tutoring Computer skills on FirstTutors South Africa (2021-)
-* Mathematics, physical science and life science to grade 10 and 11 homeschooling students (Rustenburg, North West Province, 2013)  
+* **University tutoring** Cell biology 101, Zoology 102, Zoology 201 and 202, Entomology 201, 202, 301 and 302, Honours R statistics courses; Department of Zoology and Entomology, Rhodes University (2017, 2018, 2019, 2020, 2021). Duties included assisting undergraduate students with their practical classes and fieldwork, and marking their scripts and assignments
+* **Postgraduate student representative (MSc students)** Centre for Biological Control, Department of Zoology and Entomology, Rhodes University (2018-2019)
+* **Library assistant** Student assistant at the Rhodes University main library loans desk (2018)
+* **Committee member** Environmental Representative (House Committee) for my residence (2016) at Rhodes University (Kimberley Hall)
+* **Volunteering** Week-long plant collecting excursion in the Stormberg Mountains for the Botany Department, Rhodes University (2014)
+* **Tutoring** 
+  * Computer skills on FirstTutors South Africa (2021-)
+  * Mathematics, physical science and life science to grade 10 and 11 homeschooling students (Rustenburg, North West Province, 2013)  
   
 Skills
 ======
