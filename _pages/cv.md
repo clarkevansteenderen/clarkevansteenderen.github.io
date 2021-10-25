@@ -27,11 +27,11 @@ Teaching, work, and project experience
 ======
 
 ## Postgraduate projects
-**PhD** A genetic investigation of the native stem-boring *Tetramesa* wasps in South Africa: identifying potential biological control agents of invasive grasses
-**MSc** Using genetic barcoding methods to identify the different species and intra-specific lineages of *Dactylopius* Costa used as biological control agents of invasive Cactaceae
+* **PhD** A genetic investigation of the native stem-boring *Tetramesa* wasps in South Africa: identifying potential biological control agents of invasive grasses
+* **MSc** Using genetic barcoding methods to identify the different species and intra-specific lineages of *Dactylopius* Costa used as biological control agents of invasive Cactaceae
 
 ## Phylogenetics tutorials
-I delivered a series of 1-1.5 hour/week tutorials to colleagues within the Centre for Biological Control (CBC) research group, September - October 2020. See my [GitHub repository](https://github.com/CJMvS/CBC_Tutorials)
+I delivered a series of 1-1.5 hour/week tutorials to colleagues within the Centre for Biological Control (CBC) research group, September - October 2020. See[here](https://github.com/CJMvS/CBC_Tutorials)
 
 ## Undergraduate and Honours projects
 
