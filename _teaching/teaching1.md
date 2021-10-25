@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching experience: TBA"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/teaching1
@@ -8,4 +8,4 @@ date: 2021-01-01
 location: "Grahamstown, South Africa" 
 ---
 
-Watch this space.
+TBA
