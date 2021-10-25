@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Clarke van Steenderen"
-  #avatar           : "clarke.png"
+  avatar           : "clarke.png"
   bio              : "PhD student in the Department of Zoology and Entomology, Rhodes University"
   location         : "South Africa"
   employer         :
