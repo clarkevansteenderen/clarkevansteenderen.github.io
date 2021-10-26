@@ -1,6 +1,6 @@
 ---
 title: "BinMat"
-excerpt: "An R Shiny application for processing binary data from fragment analysis methods such as ISSR and AFLP<br/><img src='/images/500x300.png'>"
+excerpt: "An R Shiny application for processing binary data from fragment analysis methods such as ISSR and AFLP<br/><img src='/images/binmat.png'>"
 collection: portfolio
 ---
 
