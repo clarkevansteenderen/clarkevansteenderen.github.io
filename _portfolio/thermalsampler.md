@@ -4,7 +4,8 @@ excerpt: "Assesses sample size requirements for researchers performing critical 
 collection: portfolio
 ---
 
-`ThermalSampleR` is an R package and R Shiny GUI application designed by myself and Guy Sutton
+`ThermalSampleR` is an R package and R Shiny [GUI application](https://clarkevansteenderen.shinyapps.io/ThermalSampleR_Shiny/) 
+designed by myself and Guy Sutton
 to assess sample size requirements for researchers performing
 critical thermal limits (CTL) studies (e.g. calculating CTmin or CTmax
 metrics). Much research has been performed in recent years to improve
@@ -18,3 +19,5 @@ single-species studies and multi-species comparisons.
 
 Owen, C.A., Sutton, G.F., Martin, G.D., van Steenderen, C.J.M., and
 Coetzee, J.A. 2021. Sample size planning for critical thermal limits studies.
+
+Have a look at the [GitHub repository](https://github.com/clarkevansteenderen/ThermalSampleR) for more information.
