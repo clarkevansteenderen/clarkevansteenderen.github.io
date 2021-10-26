@@ -1,6 +1,6 @@
 ---
 title: "DactyID"
-excerpt: "An R Shiny application to identify cochineal genetic sequences for 12S rRNA, 18S rRNA, or COI. <br/><img src='/images/dactyID.png' width="500"/>"
+excerpt: "An R Shiny application to identify cochineal genetic sequences for 12S rRNA, 18S rRNA, or COI. <br/><img src='/images/dactyID.png'>"
 collection: portfolio
 ---
 
