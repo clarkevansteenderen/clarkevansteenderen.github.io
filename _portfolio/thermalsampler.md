@@ -1,6 +1,6 @@
 ---
 title: "ThermalSampleR"
-excerpt: "Assesses sample size requirements for researchers performing critical thermal limits (CTL) studies <br/><img src='/images/500x300.png'>"
+excerpt: "Assesses sample size requirements for researchers performing critical thermal limits (CTL) studies"
 collection: portfolio
 ---
 
