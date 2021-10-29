@@ -16,6 +16,8 @@ I enjoy working on projects that involve answering phylogenetic and evolutionary
 
 📌 Please check out the [tutorials](https://github.com/clarkevansteenderen/CBC_Tutorials) I have created that cover how to run a variety of phylogenetic analyses, from sequence alignments to tree-building.
 
+My blog covers all kinds of odds and ends that I find interesting, from snippets of code to personal reflections on a variety of topics.
+
 # Current projects
 
 * **PhD:** A genetic investigation of the native stem-boring *Tetramesa* wasps in South Africa: identifying potential biological control agents of invasive grasses. Supervisors: Prof. Iain Paterson and Dr. Guy Sutton
