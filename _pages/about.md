@@ -14,6 +14,8 @@ I am currently a PhD student in the Department of Zoology and Entomology at Rhod
 
 I enjoy working on projects that involve answering phylogenetic and evolutionary questions, and I particularly love writing my own code and user-friendly applications. 
 
+📌 Please check out the [tutorials](https://github.com/clarkevansteenderen/CBC_Tutorials) I have created that cover how to run a variety of phylogenetic analyses, from sequence alignments to tree-building.
+
 # Current projects
 
 * **PhD:** A genetic investigation of the native stem-boring *Tetramesa* wasps in South Africa: identifying potential biological control agents of invasive grasses. Supervisors: Prof. Iain Paterson and Dr. Guy Sutton
