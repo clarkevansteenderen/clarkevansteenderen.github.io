@@ -1,0 +1,60 @@
+---
+title: 'Renaming all the sequences in a FASTA file automatically'
+date: 2021-10-31
+permalink: /posts/2021/17/blogpost3/
+tags:
+  - FASTA file
+  - GenBank accessions
+  - MSA
+---
+
+I came across the problem of renaming sequences in a FASTA sequence alignment after downloading over 200 sequences from GenBank for four different genes.  The sequence names were
+assigned by the GenBank accession number (e.g. MK1526) only. I wanted the sequence names to have the species name in it as well, for example MK1526_Canis_lupis. To avoid the tedious
+task of manually doing this, I wrote a few lines of R code that I hope will be of use to others with the same issue.
+
+One first needs an Excel .csv file with a column of species/taxon names, and a column with the associated GenBank ID. For example:
+
+| taxon_name                              | country      | genbank  |
+|-----------------------------------------|--------------|----------|
+| Ectrosia schultzii Benth.               | Australia    | MK872740 |
+| Cladoraphis spinosa (L.f.) S.M.Phillips | South Africa | GU360600 |
+| Ectrosia lasioclada (Merr.) S.T.Blake   | Australia    | MK872659 |
+
+
+```r
+# set your working directory to your desired folder location
+# read the csv file
+taxa_rps16trnk = read.csv("rps16trnk.csv")
+
+library(stringr)
+# change the first column so that it only contains the first two words (genus and species, separated by a space)
+taxa_rps16trnk$taxon_name = stringr::word(taxa_rps16trnk$taxon_name, 1,2, sep=" ") 
+# remove any cases of new line characters
+taxa_rps16trnk$taxon_name = str_replace_all(taxa_rps16trnk$taxon_name, "[\r\n]" , "") 
+# remove any characters from a round bracket onwards, in case there isn't a space between the species name and the bracket
+taxa_rps16trnk$taxon_name = gsub("[(].*","", taxa_rps16trnk$taxon_name)
+# add an underscore between the genus and species name
+taxa_rps16trnk$taxon_name = gsub(" ", "_", taxa_rps16trnk$taxon_name)
+
+# paste the GenBank number and genus_species name together into a new column
+taxa_rps16trnk$name = paste(taxa_rps16trnk$rps16.trnK, taxa_rps16trnk$taxon_name)
+# replace the space between them with an underscore
+taxa_rps16trnk$name <- gsub(" ", "_", taxa_rps16trnk$name)
+
+# optionally write this as a csv file to your working directory
+write.csv(taxa_rps16trnk, "rps16trnk.csv")
+
+# create a vector of the new names
+new = taxa_rps16trnk$name
+current = ape::read.FASTA("rps16trnk.fas")
+
+# create a dataframe with two columns: one with the current sequence names directly from the FASTA file, and one with the new names you want to change them to
+ref = data.frame(matrix(nrow = length(new), ncol = 2))
+ref[,1] = names(current)
+ref[,2] = new
+
+# use the phylotools library to replace the names
+library(phylotools)
+rename.fasta(infile = "rps16trnk.fas", ref, outfile = "renamed_rps16trnk.fasta")
+
+```
