@@ -6,5 +6,5 @@ excerpt: 'This article debunks the claims in the book "Becoming Supernatural" by
 paperurl: 'https://skepticalinquirer.org/authors/clarke-van-steenderen/'
 date: 2020-07-01
 venue: 'Skeptical Inquirer'
-citation: '<b>van Steenderen, C.J.M.</b>. 2020. Becomind Supernatural: How common people are being misled. <i>Skeptical Inquirer</i> Vol.44 No. 4.'
+citation: '<b>van Steenderen, C.J.M.</b> 2020. Becomind Supernatural: How common people are being misled. <i>Skeptical Inquirer</i> Vol.44 No. 4.'
 ---
