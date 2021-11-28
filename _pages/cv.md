@@ -86,10 +86,6 @@ Awards
 * "Top 5" student award received from grade 8 through to matric.
 * Represented the North West Province in the South African National Chess Championships in 2010 (UCT) and 2011 (UJ)
   
-Popular Articles
-======
-van Steenderen, C.J.M. Joe Dispenza’s *Becoming Supernatural*: How Common People Are Being Misled. *Skeptical Inquirer* Vol. 40, No. 4. July/August 2020. https://skepticalinquirer.org/authors/clarke-van-steenderen/
-  
 Talks
 ======
   <ul>{% for post in site.talks %}
