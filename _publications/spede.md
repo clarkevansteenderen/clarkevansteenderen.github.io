@@ -9,4 +9,4 @@ venue: 'Molecular Ecology Resources'
 citation: '<b>van Steenderen, C.J.M.</b> and Sutton, G.F. 2022. SPEDE-sampler: an R Shiny application to assess how methodological choices and taxon-sampling can affect Generalised Mixed Yule Coalescent (GMYC) output and interpretation. <i>Molecular Ecology Resources</i> (22)2 doi: 10.1111/1755-0998.13591'
 ---
 
-![alt text](https://github.com/clarkevansteenderen/clarkevansteenderen.github.io/blob/master/images/MER.jpg)
+<img src="https://github.com/clarkevansteenderen/clarkevansteenderen.github.io/blob/master/images/MER.jpg" alt="drawing" width="200"/>
