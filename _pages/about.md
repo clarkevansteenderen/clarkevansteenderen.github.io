@@ -21,5 +21,4 @@ My blog covers all kinds of odds and ends that I find interesting, from snippets
 # Current projects
 
 * **PhD:** A genetic investigation of the native stem-boring *Tetramesa* wasps in South Africa: identifying potential biological control agents of invasive grasses. Supervisors: Prof. Iain Paterson and Dr. Guy Sutton
-* **Application development:** SPEDE-sampler: an R Shiny application to assess how methodological choices and taxon-sampling can affect Generalised Mixed Yule Coalescent (GMYC) output and interpretation. **van Steenderen, C.J.M.**, and Sutton, G.F. 2021. Under review.
 * **Side project**: The taxonomy of *Pseudonympha* Wallengren, 1857 (Lepidoptera: Nymphalidae: Satyrinae). **van Steenderen, C.J.M.**, Pringle, E.L. and Villet, M.H. 2021. In progress.
