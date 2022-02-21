@@ -56,9 +56,7 @@ Publications
 ## Tutoring
 
 * **University tutoring** Cell biology, Zoology 1 and 2, Entomology 2 and 3, Honours R statistics courses; Department of Zoology and Entomology, Rhodes University (2017 - 2022). Duties included assisting undergraduate students with their practical classes and fieldwork, and marking their scripts and assignments
-
 * **Private tutoring**  IGCSE mathematics (Grahamstown, 2022); Computer skills on FirstTutors South Africa (online, 2021); Mathematics, physical science and life science to grade 10 and 11 homeschooling students (Rustenburg, North West Province, 2013).
-
 * I delivered a series of 1-1.5 hour/week tutorials to colleagues within the Centre for Biological Control (CBC) research group, September - October 2020. See [here](https://github.com/CJMvS/CBC_Tutorials)
 
 Skills
