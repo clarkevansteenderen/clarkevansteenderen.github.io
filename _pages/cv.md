@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Clarke JM van Steenderen"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,8 +12,8 @@ redirect_from:
 Personal Information
 ======
 
-email: vsteenderen@gmail.com     
-cell: +27 (0)72 529 0732    
+📫 vsteenderen@gmail.com     
+📞 +27 (0)72 529 0732    
 [Personal website](https://clarkevansteenderen.github.io/)    
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=L3U36VIAAAAJ)      
 [GitHub](https://github.com/clarkevansteenderen)         
