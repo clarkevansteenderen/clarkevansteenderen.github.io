@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Personal Information
-======
+## Personal Information
 
 📫 vsteenderen@gmail.com     
 📞 +27 (0)72 529 0732    
@@ -22,16 +21,16 @@ Twitter: @ClarkeJMVS
 Citizenship: South African      
 Driver’s licence: Code B
 
-Education
-======
+## Education
+
 * PhD, Entomology, Rhodes University, 2020-present 
 * MSc, Entomology, Rhodes University, 2018-2019
 * BSc Hons (with distinction, top honours student), Entomology, Rhodes University, 2017  
 * BSc, Zoology and Entomology (with a distinction in Entomology), Rhodes University (EC Province), 2014-2016
 * Selly Park Secondary School, Rustenburg (NW Province), 2008-2012
 
-Publications
-======
+## Publications
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -59,21 +58,20 @@ Publications
 * **Private tutoring**  IGCSE mathematics (Grahamstown, 2022); Computer skills on FirstTutors South Africa (online, 2021); Mathematics, physical science and life science to grade 10 and 11 homeschooling students (Rustenburg, North West Province, 2013).
 * I delivered a series of 1-1.5 hour/week tutorials to colleagues within the Centre for Biological Control (CBC) research group, September - October 2020. See [here](https://github.com/CJMvS/CBC_Tutorials)
 
-Skills
-======
+## Skills
+
 * **Molecular biology** 
   * DNA extraction, PCR, phylogenetics, genetic barcoding, fragment analyses (ISSR, SSR) and data processing
 * **Computational** 
   * Programming in Python and R, R Shiny Apps
 
-Courses completed
-======
+## Courses completed
+
 * Advanced Statistics in R, accredited through Rhodes University (August 2020)
 * Invasive Weeds Short Course, accredited through Rhodes University (October 2018)
 * Phylogenetics beginner and advanced workshop, Stellenbosch University (June 2018)
 
-Awards
-======
+## Awards
 
 * Best student presentation (PhD) runner-up, 22nd Congress of the Entomological Society of Southern Africa (ESSA), 2021 
 * Departmental PhD bursary through the Centre for Biological Control (CBC) (2020 – 2022)
@@ -94,19 +92,18 @@ Awards
 * "Top 5" student award received from grade 8 through to matric.
 * Represented the North West Province in the South African National Chess Championships in 2010 (UCT) and 2011 (UJ)
 
-Talks
-======
+## Talks
+
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-R packages on CRAN
-======
+## R packages on CRAN
+
 [BinMat:](https://cran.r-project.org/web/packages/BinMat/index.html) Processes Binary Data Obtained from Fragment Analysis (Such as AFLPs, ISSRs, and RFLPs)        
 [ThermalSampleR:](https://cran.r-project.org/web/packages/ThermalSampleR/index.html) Calculate Sample Sizes Required for Critical Thermal Limits Experiments
   
-Reviewer
-=======
+## Reviewer
 
 I have reviewed publications in the following journals:
 
