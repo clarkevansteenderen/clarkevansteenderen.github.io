@@ -18,6 +18,6 @@ experience. [PDF](https://github.com/clarkevansteenderen/clarkevansteenderen.git
 paperurl: 'https://bdj.pensoft.net/article/77875/'
 date: 2022-03-11
 venue: 'Biodiversity Data Journal'
-citation: '<b>van Steenderen, C.J.M.<b> 2022. <i>Biodiversity Data Journal</i> (10) doi: 10.3897/BDJ.10.e77875'
+citation: '<b>van Steenderen, C.J.M.</b> 2022. <i>Biodiversity Data Journal</i> (10) doi: 10.3897/BDJ.10.e77875'
 ---
 
