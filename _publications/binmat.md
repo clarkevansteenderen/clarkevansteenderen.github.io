@@ -14,7 +14,7 @@ platform. It is also available as an R package on the Comprehensive R Archive Ne
 replicate sample pairs of binary data into consensus reads, produces summary statistics
 and allows the user to visualise their data as ordination plots and clustering trees without
 having to use multiple programmes and input files or rely on previous programming
-experience. [PDF](https://github.com/clarkevansteenderen/clarkevansteenderen.github.io/blob/master/files/BinMat_BDJ_article_77875.pdf)'
+experience. 📁 [PDF](https://github.com/clarkevansteenderen/clarkevansteenderen.github.io/blob/master/files/BinMat_BDJ_article_77875.pdf)'
 paperurl: 'https://bdj.pensoft.net/article/77875/'
 date: 2022-03-11
 venue: 'Biodiversity Data Journal'
