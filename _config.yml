@@ -6,6 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
 locale                   : "en-UK"
 title                    : "Clarke van Steenderen"
 title_separator          : "-"
