@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Clarke van Steenderen"
 description              : &description ""
 url                      : "https://clarkevansteenderen.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/clarkevansteenderen"
 repository               : "clarkevansteenderen/clarkevansteenderen.github.io"
 teaser                   :  "clarke.png"
 breadcrumbs              : false # true, false (default)
