@@ -19,7 +19,6 @@ redirect_from:
 Twitter: @ClarkeJMVS  
 [orcid.org/0000-0002-4219-446X](https://orcid.org/0000-0002-4219-446X)    
 Citizenship: South African      
-Driver’s licence: Code B
 
 ## Education
 
@@ -46,7 +45,6 @@ Driver’s licence: Code B
 
 ## Positions held
 
-* **Journal club and seminar series organiser** Department of Zoology and Entomology, Rhodes University, 2022
 * **Postgraduate student representative** (Hons, MSc, PhD) Department of Zoology and Entomology, Rhodes University (2022)
 * **Postgraduate student representative (MSc students)** Centre for Biological Control, Department of Zoology and Entomology, Rhodes University (2018-2019)
 * **Library assistant** Student assistant at the Rhodes University main library loans desk (2018)
@@ -55,7 +53,7 @@ Driver’s licence: Code B
 ## Tutoring
 
 * **University tutoring** Cell biology, Zoology 1 and 2, Entomology 2 and 3, Honours R statistics courses; Department of Zoology and Entomology, Rhodes University (2017 - 2022). Duties included assisting undergraduate students with their practical classes and fieldwork, and marking their scripts and assignments
-* **Private tutoring**  IGCSE mathematics (Grahamstown, 2022); Computer skills on FirstTutors South Africa (online, 2021); Mathematics, physical science and life science to grade 10 and 11 homeschooling students (Rustenburg, North West Province, 2013).
+* **Private tutoring**  Computer skills on FirstTutors South Africa (online, 2021); Mathematics, physical science and life science to grade 10 and 11 homeschooling students (Rustenburg, North West Province, 2013).
 * I delivered a series of 1-1.5 hour/week tutorials to colleagues within the Centre for Biological Control (CBC) research group, September - October 2020. See [here](https://github.com/CJMvS/CBC_Tutorials)
 
 ## Skills
@@ -109,3 +107,4 @@ I have reviewed publications in the following journals:
 
 * [Biological Control](https://www.journals.elsevier.com/biological-control) (1 paper)    
 * [Weed Research](https://onlinelibrary.wiley.com/journal/13653180) (1 paper) 
+* [Biological Invasions](https://www.springer.com/journal/10530) (1 paper)
