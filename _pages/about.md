@@ -22,6 +22,6 @@ My blog covers all kinds of odds and ends that I find interesting, from snippets
 
 * **PhD:** A genetic investigation of the native stem-boring *Tetramesa* wasps in South Africa: identifying potential biological control agents of invasive grasses. Supervisors: Prof. Iain Paterson and Dr. Guy Sutton
 
-<img src=/images/tetramesa_webpage.png height = 250>
+<img src= "https://github.com/clarkevansteenderen/clarkevansteenderen.github.io/blob/master/images/tetramesa_webpage.png" height = 250>
 
 * **Side project**: The taxonomy of *Pseudonympha* Wallengren, 1857 (Lepidoptera: Nymphalidae: Satyrinae). **van Steenderen, C.J.M.**, Pringle, E.L. and Villet, M.H. 2022. In progress.
