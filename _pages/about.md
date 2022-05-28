@@ -25,7 +25,7 @@ Please get in touch with me if you would like to collaborate on a project!
 * **PhD thesis:** A genetic investigation of the native stem-boring *Tetramesa* wasps in South Africa: identifying potential biological control agents of invasive grasses. Supervisors: Prof. Iain Paterson and Dr. Guy Sutton
 
 <p align="center">
-<img src= "/images/GFS_PHI_1228F.png" height = 130>
+<img src= "/images/GFS_PHI_1228F.png" height = 90>
 </p>
 
 * The taxonomy of *Pseudonympha* Wallengren, 1857 (Lepidoptera: Nymphalidae: Satyrinae). **van Steenderen, C.J.M.**, Pringle, E.L. and Villet, M.H. 2022. In progress.
