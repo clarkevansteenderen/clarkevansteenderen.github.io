@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+📁
+<a href="https://github.com/clarkevansteenderen/clarkevansteenderen.github.io/blob/master/files/Clarke_van_Steenderen_CV_2022.pdf" target="_blank">PDF</a>
+
 ## Personal Information
 
 📫 vsteenderen@gmail.com     
