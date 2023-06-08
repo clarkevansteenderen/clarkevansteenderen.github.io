@@ -20,12 +20,12 @@ My blog covers all kinds of odds and ends that I find interesting; mostly snippe
 
 Please get in touch with me if you would like to collaborate on a project!
 
-# Current Projects
+# Current work
 
-* **PhD thesis work:** A genetic investigation of the native stem-boring *Tetramesa* wasps in South Africa: identifying potential biological control agents of invasive grasses. Supervisors: Prof. Iain Paterson and Dr. Guy Sutton
+* A genetic investigation of the native stem-boring *Tetramesa* wasps in South Africa: identifying potential biological control agents of invasive grasses. 
 
 <p align="center">
 <img src= "/images/tetramesa_website.png" height = "90">
 </p>
 
-* Species distribution modelling for the Asian citrus psyllid (ACP) - a risk assessment for South Africa
+* Species distribution modelling for the Asian citrus psyllid (ACP) - a risk assessment for South Africa. A collaboration with Evans Mauda and Wayne Kirkman at Citrus Research International (CRI)
