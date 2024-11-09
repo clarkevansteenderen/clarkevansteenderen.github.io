@@ -6,5 +6,5 @@ excerpt: 'The butterfly genus Pseudonympha and several related genera are endemi
 paperurl: 'https://doi.org/10.1080/00222933.2023.2257373'
 date: 2023-11-06
 venue: 'Journal of Natural History'
-citation: '<b>van Steenderen, C.J.M.</b>, Pringle, E.L., and Villet, M.H. 2023. Historical diversificaࢢon of Pseudonympha Wallengren, 1857 (Lepidoptera: Nymphalidae: Satyrinae). <i>Journal of Natural History</i> (10) doi: 10.1080/00222933.2023.2257373'
+citation: '<b>van Steenderen, C.J.M.</b>, Pringle, E.L., and Villet, M.H. 2023. Historical diversification of Pseudonympha Wallengren, 1857 (Lepidoptera: Nymphalidae: Satyrinae). <i>Journal of Natural History</i> (10) doi: 10.1080/00222933.2023.2257373'
 ---
