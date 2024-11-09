@@ -6,5 +6,5 @@ excerpt: 'In press'
 paperurl: ''
 date: 2024-12-01
 venue: 'Austral Entomology'
-citation: '. Kolesik, P., Suon, G.F., <b>van Steenderen, C.J.M.</b>, Marࢢn, D., Plowes, R. and Paterson, I.D. 2024. <i>Austral Entomology</i> (10) doi: '
+citation: '. Kolesik, P., Sutton, G.F., <b>van Steenderen, C.J.M.</b>, Marࢢn, D., Plowes, R. and Paterson, I.D. 2024. <i>Austral Entomology</i> (10) doi: '
 ---
