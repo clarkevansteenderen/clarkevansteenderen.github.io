@@ -6,5 +6,5 @@ excerpt: 'Many native South African grass species have become invasive elsewhere
 paperurl: 'https://link.springer.com/article/10.1007/s10526-023-10231-4'
 date: 2023-12-06
 venue: 'BioControl'
-citation: '<b>van Steenderen, C.J.M.</b> 2023. Phylogenetic analyses reveal multiple new stem-boring Tetramesa (Hymenoptera: Eurytomidae) taxa: implications for the biological control of invasive African grasses <i>BioControl</i> (10) doi: 10.1007/s10526-023-10231-4'
+citation: '<b>van Steenderen, C.J.M.</b>, Sutton, G.F., Yell, L.D., Canavan, K., McConnachie, A., Day, M.D., and Paterson, I.D. 2023. Phylogenetic analyses reveal multiple new stem-boring Tetramesa (Hymenoptera: Eurytomidae) taxa: implications for the biological control of invasive African grasses <i>BioControl</i> (10) doi: 10.1007/s10526-023-10231-4'
 ---
