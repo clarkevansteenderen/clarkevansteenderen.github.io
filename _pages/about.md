@@ -22,7 +22,7 @@ Please get in touch with me if you would like to collaborate on a project!
 
 # Current work
 
-* RADseq population genetic work, focusing on the native South African crystalline ice plant (*Cryophytum crystallinym*) that is invasive in the USA.
+* RADseq population genetic work, focusing on the native South African crystalline ice plant (*Cryophytum crystallinum*) that is invasive in the USA.
   
 * A genetic investigation of the native stem-boring *Tetramesa* wasps in South Africa: identifying potential biological control agents of invasive grasses. 
 
