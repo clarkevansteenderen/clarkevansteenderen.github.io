@@ -1,5 +1,5 @@
 ---
-title: "Challenges in taxonomy"
+title: "Beer competitions"
 collection: cartoons
 permalink: /cartoons/beer
 ---
