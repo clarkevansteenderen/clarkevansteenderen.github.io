@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience: TBA"
+title: "Teaching experience"
 collection: teaching
 type: ""
 permalink: /teaching/teaching1
@@ -8,4 +8,6 @@ date: 2021-01-01
 location: "Grahamstown, South Africa" 
 ---
 
-TBA
+* R tutorials for the Honours students in the Department of Zoology and Entomology at Rhodes University (May 2024)
+* A four-week medical and veterinary entomology module for Ento202 students in the Department of Zoology and Entomology at Rhodes University (2023, 2024)
+* Two weeks of phylogenetics lectures to Ento301 students in the Department of Zoology and Entomology at Rhodes University (2023; 2024)
