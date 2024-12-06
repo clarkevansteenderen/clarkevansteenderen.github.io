@@ -5,18 +5,18 @@ type: ""
 permalink: /cartoons/cartoons
 ---
 
-## The Asian Citrus Psyllid
+## Climatic modelling and variable use
 ![](/images/acp.png)
 
-## Host specificity
+## Host specificity in biological control
 ![](/images/host_specificity.png)
 
 # Insect collections
 ![](/images/collection.png)
 
-# Beer tasting
+# Beer tasting 
 ![](/images/beer.png)
 
-# Taxonomy
+# Challenges in taxonomy
 ![](/images/taxonomy.png)
 
