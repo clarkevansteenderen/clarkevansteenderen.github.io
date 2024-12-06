@@ -176,7 +176,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  cartoons:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -210,10 +210,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _cartoons
   - scope:
       path: ""
-      type: teaching
+      type: cartoons
     values:
       layout: single
       author_profile: true
