@@ -1,8 +1,7 @@
 ---
 title: "Cartoons"
 collection: cartoons
-type: ""
-permalink: /cartoons/cartoons
+permalink: /cartoons/strips
 ---
 
 ## Climatic modelling and variable use
