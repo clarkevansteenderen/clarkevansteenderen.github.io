@@ -1,3 +1,9 @@
+---
+title: "Cartoons"
+collection: cartoons
+permalink: /cartoons/strips2
+---
+
 ## Insect collections
 ![](/images/collection.png)
 
