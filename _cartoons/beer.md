@@ -5,3 +5,4 @@ permalink: /cartoons/beer
 ---
 
 ![](/images/beer.png)
+
