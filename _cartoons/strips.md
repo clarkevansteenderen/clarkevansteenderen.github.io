@@ -10,12 +10,12 @@ permalink: /cartoons/strips
 ## Host specificity in biological control
 ![](/images/host_specificity.png)
 
-# Insect collections
+## Insect collections
 ![](/images/collection.png)
 
-# Beer tasting 
+## Beer tasting 
 ![](/images/beer.png)
 
-# Challenges in taxonomy
+## Challenges in taxonomy
 ![](/images/taxonomy.png)
 
