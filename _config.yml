@@ -179,6 +179,7 @@ collections:
   cartoons:
     output: true
     permalink: /:collection/:path/
+    sort_by: order
   publications:
     output: true
     permalink: /:collection/:path/
