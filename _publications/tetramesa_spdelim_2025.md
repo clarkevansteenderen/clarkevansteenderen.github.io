@@ -6,5 +6,5 @@ excerpt: "The genus *Tetramesa* Walker (Hymenoptera: Eurytomidae) comprises over
 paperurl: 'https://doi.org/10.1111/aen.70006'
 date: 2025-04-19
 venue: 'Austral Entomology'
-citation: 'van Steenderen, C.J.M., Suton, G.F., Yell, L.D., Canavan, K., and Paterson, I.D. 202. <i>Austral Entomology</i> (10) doi: 10.1111/aen.70006'
+citation: '<b>van Steenderen, C.J.M.</b>, Suton, G.F., Yell, L.D., Canavan, K., and Paterson, I.D. 202. <i>Austral Entomology</i> (10) doi: 10.1111/aen.70006'
 ---
