@@ -53,7 +53,7 @@ A Watch List to protect an island biodiversity hotspot from invasion: Republic o
 Neobiota
 . Under Review.
 
-van Steenderen, C.J.M., Sandenbergh, E., Brookes, D., Moran, P., & Paterson, I.D. 2025.
+**van Steenderen, C.J.M.**, Sandenbergh, E., Brookes, D., Moran, P., & Paterson, I.D. 2025.
 Population genetics elucidates invasion pathways and informs biocontrol strategies for the Crystalline Ice Plant (Cryophytum crystallinum) in North America.
 Ecology and Evolution
 . Under Review.
