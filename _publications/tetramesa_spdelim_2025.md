@@ -1,0 +1,10 @@
+---
+title: "Species delimita􀢢on and molecular dating of southern African *Tetramesa* Walker (Hymenoptera: Eurytomidae): an understudied microhymenopteran group"
+collection: publications
+permalink: /publication/tetramesa_spdelim_2025
+excerpt: "The genus *Tetramesa* Walker (Hymenoptera: Eurytomidae) comprises over 200 species of herbivorous wasps that feed exclusively on grasses. Recent field surveys in South Africa for grass biological control programs have uncovered a large diversity of potential Tetramesa on African grasses. Here, mitochondrial (cytochrome c oxidase I [COI]) and nuclear (28S) genetic sequences were used to compare the outputs of seven popular species delimitation methods and to guide the generation of consensus species boundaries for putative Tetramesa taxa and close relatives. Additionally, the nuclear region was used to run a dated analysis that applied a molecular clock rate. Consensus species delimitation results found 35 molecular operational taxonomic units (MOTUs) in the COI data and 21 MOTUs in the 28S data. Of the 35 COI MOTUs, there were 17 putative Tetramesa taxa (16 novel southern African taxa and 1 described Northern Hemisphere species, Tetramesa romana), 13 of which showed evidence of specialisation to a single host plant. Comparatively, of the twenty-one 28S MOTUs, there were 5 putative Tetramesa taxa (4 novel southern African taxa and 1 T. romana), all of which showed evidence of host specificity. The dated analysis suggested that the genus Tetramesa originated ~67.1 mya. There was evidence of rapid diversification in the Southern Hemisphere clades between 5 and 15 mya, which coincides with grassland expansions and climatic fluctuations in Africa at the time that may have driven host specialisation. The present results provide valuable insights into the diversity and broader scale evolutionary patterns in this Southern Hemisphere microhymenopteran group."
+paperurl: 'https://doi.org/10.1111/aen.70006'
+date: 2025-04-19
+venue: 'Austral Entomology'
+citation: 'van Steenderen, C.J.M., Suton, G.F., Yell, L.D., Canavan, K., and Paterson, I.D. 202. <i>Austral Entomology</i> (10) doi: 10.1111/aen.70006'
+---
